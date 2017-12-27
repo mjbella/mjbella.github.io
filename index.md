@@ -1,11 +1,9 @@
 # This is a test index markdown file
 
-## Subhedding
+## Main Projects
+[CNC Mill]()
+[High Brightness LED Flasher]()
+[Phased SDR Array]()
 
-- Bulleted
-- List
+## Blog Updates
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
